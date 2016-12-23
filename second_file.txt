@@ -1,5 +1,0 @@
-# This is the fourth file in git repo.
-
-# Add a new line in this fourth file.
-
-# this is the last file on this project.

@@ -1,5 +1,0 @@
-# This is my third file created in a git repo.
-
-# Added another line in this file.
-
-# Added a new comment in this third file just for kicks
